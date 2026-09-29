@@ -104,7 +104,7 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-white">Contact</h3>
             <ul className="mt-4 space-y-3 text-sm text-slate-400">
-              <li>(555) 123-4567</li>
+              <li>+1 708 550 4407</li>
               <li>info@yopotransport.com</li>
               <li>Serving all 50 states</li>
             </ul>

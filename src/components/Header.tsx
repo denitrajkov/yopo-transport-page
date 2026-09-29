@@ -39,11 +39,11 @@ export default function Header() {
 
         <div className="hidden items-center gap-4 md:flex">
           <a
-            href="tel:+15551234567"
+            href="tel:+17085504407"
             className="flex items-center gap-2 text-sm font-medium text-slate-300 hover:text-white"
           >
             <Phone className="h-4 w-4 text-amber-500" />
-            (555) 123-4567
+            +1 708 550 4407
           </a>
           <a
             href="#contact"

@@ -31,7 +31,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm font-semibold text-white">Call Us</p>
-                  <p className="text-sm text-slate-400">(555) 123-4567</p>
+                  <p className="text-sm text-slate-400">+1 708 550 4407</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
